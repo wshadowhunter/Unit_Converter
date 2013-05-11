@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/register/Default.aspx" title="Home"  description="">
+      <siteMapNode url="~/register/register.aspx" title="Registration"  description="" />
+      <siteMapNode url="login.aspx" title="Login me in"  description="" />
+      <siteMapNode url="~/private/ConverterLength.aspx" title="Convert Length"  description="" />
+      <siteMapNode url="~/private/ConverterWeight.aspx" title="Convert Weight"  description="" />
+    </siteMapNode>
+</siteMap>

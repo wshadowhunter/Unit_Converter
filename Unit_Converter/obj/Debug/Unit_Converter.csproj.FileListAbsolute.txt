@@ -1,0 +1,10 @@
+C:\Users\HaoSun\Desktop\BegVCSharp\MyApplication\Unit_Converter\Unit_Converter\bin\Unit_Converter.dll
+C:\Users\HaoSun\Desktop\BegVCSharp\MyApplication\Unit_Converter\Unit_Converter\bin\Unit_Converter.pdb
+C:\Users\HaoSun\Desktop\BegVCSharp\MyApplication\Unit_Converter\Unit_Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HaoSun\Desktop\BegVCSharp\MyApplication\Unit_Converter\Unit_Converter\obj\Debug\Unit_Converter.dll
+C:\Users\HaoSun\Desktop\BegVCSharp\MyApplication\Unit_Converter\Unit_Converter\obj\Debug\Unit_Converter.pdb
+C:\Users\HaoSun\Desktop\Unit_Converter\Unit_Converter\bin\Unit_Converter.dll
+C:\Users\HaoSun\Desktop\Unit_Converter\Unit_Converter\bin\Unit_Converter.pdb
+C:\Users\HaoSun\Desktop\Unit_Converter\Unit_Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HaoSun\Desktop\Unit_Converter\Unit_Converter\obj\Debug\Unit_Converter.dll
+C:\Users\HaoSun\Desktop\Unit_Converter\Unit_Converter\obj\Debug\Unit_Converter.pdb

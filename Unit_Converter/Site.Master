@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Unit_Converter.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="header">
+        <h2>Welcome to the Unit Converter Online!</h2>
+    </div>
+    <div class="navigation" >
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        <br />
+        <asp:Menu ID="Menu1" runat="server" CssClass="menu" 
+            DataSourceID="SiteMapDataSource1" Orientation="Horizontal" 
+            StaticDisplayLevels="2">
+        </asp:Menu>
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server" ForeColor="White">
+            <NodeStyle ForeColor="White" />
+            <RootNodeStyle ForeColor="White" />
+        </asp:SiteMapPath>
+        <br />
+    </div>
+    <div class="content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="bottom">
+    Copyright (c) 2013 Hao Sun
+    </div>
+    </form>
+</body>
+</html>
